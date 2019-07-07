@@ -1,5 +1,14 @@
 # Playment Assingment
 
+## Instalation
+
+Run these commands
+```
+git clone git@github.com:satish876/playment-assignment.git
+cd playment-assignment
+npm i && npm start
+```
+
 ## Available commands
 
 1. cd path
