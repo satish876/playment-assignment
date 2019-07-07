@@ -1,0 +1,1 @@
+{"name":"root","parentPath":"","path":"/","isDirectory":true,"contents":{"folder1":{"name":"folder1","parentPath":"/","path":"/folder1","isDirectory":true,"contents":{"level1":{"name":"level1","parentPath":"/folder1","path":"/folder1/level1","isDirectory":true,"contents":{}}}},"folder2":{"name":"folder2","parentPath":"/","path":"/folder2","isDirectory":true,"contents":{}}}}
